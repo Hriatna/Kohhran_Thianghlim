@@ -1,7 +1,7 @@
 import '../Models/Data.dart';
 
-final book2 = {
-  'title': 'CHHANDAMNA LAWNG',
+final book3 = {
+  'title': 'MO NEITU AU AW',
   'chapters': [
     Chapter('Bung 1: CHHANDAM NIH INHRIAT-CHIANNA LAWMAWM', bung1),
     Chapter('Bung 2: KRISTA LALNA', bung2),
@@ -20,7 +20,7 @@ final book2 = {
 
   ],
   'bookImagePath': 'assets/books/3.png',
-  'bookId':'2'
+  'bookId':'3'
   // Add the image path here
 };
 
