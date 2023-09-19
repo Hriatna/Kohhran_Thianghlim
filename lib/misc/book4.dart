@@ -12,7 +12,7 @@ final book4 = {
     Chapter('Bung 7: HAWH U, LALPA HNENAH I KIR ANG U', bung7),
     Chapter('Bung 8: RAM TIHNGHIN RUAL LOH', bung8),
   ],
-  'bookImagePath': 'assets/books/3.png',
+  'bookImagePath': 'assets/books/1.png',
   'bookId':'4'
   // Add the image path here
 };

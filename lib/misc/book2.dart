@@ -27,7 +27,143 @@ final book2 = {
 const bung1 ="""Tih tak meuhin, tih tak meu vin ka hrilh a che u, tupawh ka thu hria a mi tirtu ring chuan, chatuan nunna a nei tawh, thiamlohvin a awm lova, thihna ata a chhuak a, nunnaah alut ta zawk ani.” Johana 5:24. Khawvelah hian mihringten thil ropui tak tak an siam chhuak thin a, mahse,chung zawng zawng aia ropui chu Pathian Chhandamna hi ani.Pathian pawhin lei leh van, ni leh thla leh arsite a siam a,tuifinriat leh khawmual te a siam a, chung zawng zawng aia ropui zawk chu Pathian Chhandamna hi ani tlat a ni. Hun rei tak atangin Pathian Chhandamna thu hi kan sawi thin.Beng zawngin kan hre tam hle tawh ani.Tunah chiah hian,kan awm hmunah hian tek rawn tla ta chiah se, min deng hlum dawn se kan thla a muang em? Tunah thi thut dawn ila, chhandam kan nihnaah hian kan chiang em tih mahni inzawh theuh angai a ni. Chhandam kan nih inhriat-chianna nei lote tan chuan hlauhna te atam thin; khawvel chhe thut tura hriatna lo awm te,indo thuthang rite aloawm a, vanduaina thleng thut tur awmte avanga chhungrila khurhna nei kan la nih chuan, chhandamnaah kan la chiang lo tihna a ni a, chhandam kan nih leh nih loh pawh inhre chiang ngam lo,chhungril taka khurh rukna la nei chu kan la chiang lo tih in hriat hmasak atha ang. Thlarau Thianghlim hriatirna ni lo, mahni ngaih alo intihpianthara, lo pawngpaw lungmuan ngawt hi ani lo.Mahni inbumna zawng a inbumna pawi ber a nih tlat avangin mahni inphat ngam angai a ni. Kan nuna sual thiltihtheihnain thu a la neih a, zu te, nawmchenna te leh duhamna tenawm ten min la bawih tlat chuanPathian Chhandamnaah kan la chiang lo a ni. Vawiina Pathian Chhandamna kan sawi tur hi, sual kuangkuah reng chunga piantharna a ni lova, sualin keimahni thlarauva thu a neih tawh lohna, Pathian Chhandamna dik tak kan sawi dawn a.Piangthar in ti, zu leh sa hmuna la cheng rengte nun hi chu a ni tlat lo. Johana 5:24 a kan hmuh ang khan, Lal Isuan, “Tupawh ka thu hriaa mi tirtu ring chuan chatuan nunna a nei tawh, thiamlohvin a awm lova, thihna ata a chhuak a, nunnaah a lut ta zawk a ni,” a lo ti a.Hetah hian chatuan nun neih hun chui tun hun hi a ni tih a sawi nghal tih hria ila. Mihring chuan hun hi hmun thumah kan then a, hun kal tawh (past), kan hun hman mekpresnet) leh hun lo la kal tur(future) tiin kan then a. Hman , tun leh nakin huna kan then ang hian Pathian chuan a chhandamna hi a then lova, ‘tun’ a ti reng mai a ni. Chuvangin, Pathian Chhandamna hi tun hun atan a nih reng avangin, nakin thih hun a chhandam nih chauh tura inngaihna hi mahn i inbumna sual lian tak a ni. Kan Bible chhiara kan hmuh ang khan, Lal Isuan,”Tupawh ka thu hriaa mi tirtu ring chuan chatuana nunna a nei tawh,” a ti mai a; ‘a la nei ang’, a ti lova, ‘a nei dawn’, a ti hek lova, ‘a nei tawh’,a ti mai a ni. Chuvangin, chhandam ka ni tawh kan tih theihna chu, Bible thianghlimah, Pathian lehkhabu-ah, Pathian thutakah chhandam tawh kan nih min hriattir avangin chhandam tawh kan lo ni. Thih hnu piaha chhandam nih inhriat chauh tur anga ngaitute chu hremhmunah an kal dawn tlat.Engvangin maw? Ele, chhandam tawh an ni tih an inhre lova, an hai tlat a; thih hnua chhandam tur tih zawng ni se thu hran a ni a, mahse, tun kan damchhunga hriat tur hi a ni tlat si a. “Chatuan nunna in nei tih inhriat theih nan nangni Pathian fapa hming ringtute hnenah heng thu hi ka ziak a ni,”(2 joh. 5:13) Johana chuan a lo ti a. Chatuana nun kan nei tih a lo inhriat loh theih a, chuvang chuan thahnemngai em emin Apostol Johana chuan he thu hi a lo chhak chhuak a.Pathian fa kan ni a,chhandam kan ni tih Pathian thu in min hriattir a ni. Kan Bible lettute hian an tisual ve a, ‘chatuana nunna’ tia lehlin hi ‘chatuan nunna’ tih tur a ni a. Thih phawta chatuana nunna neih tur emaw tih tur a ni lova, lei a kan awm lai ngei hian chatuan nunna chu kan lo nei tawh zawk a ni. Pathian chuan zirtir Johana hmangin a chhandamna chu kan nei tawh tih min hriattir a, chuvangin chhandamna chu Pathian fapa ringtu hnenah chatuan nunna a pek hi a ni. Chu chu piantharna chu a ni. Chu chu siamtharna chu a ni a, chu thu tak ngei chu alawm Lal Isuan, “Thutak in hria ang a, thutak chuan bawih a ban ang che u,” a tih chu. “Chutichuan, tunah zawng Krista Isuaa awmte tan chuan thiam loh chantirna reng a awm tawh lo. Krista Isuaa Nunna Thlarau dan chuan sualna leh thihna dan ata chu min ti chhuak tawh si a.Tisa avanga Dan chu a chak loh va, a tih theih rual loh chu Pathianin ama fapa ngei, tisa sual ang puin, sual thawi nan rawn tirin, tisaa sualna awm chu thiamloh a chantir ta a ni; tisa dan zawh lova Thlarau dan zawh zawktu keimahniah hian Dan thu ruat chu hlena a awm theihna turin”(Rom 8:1- 4). Mihring zawh rual loh kha Lal Isuan Kalvari tlangah a lo hlenchhuak ta a, chvangin chhandamna chu kan chanvo a lo ni ta. Thiamloh chantirna reng reng a awm ta lova, Kristaah kan awmtawh tlat avangin thim thuneihna lak ata min tlan chhuakin, a fapa hmangaih taka ramah chuan mim kai tir ta a ni. (Kol. 1:13) Miin Matix a exam a, aresult a chhuah hma chuan a changin pass a in ring a,achangin pass a in ring lova. Chutiang chuan kan result a chhuah hma chuan kan buai ru thin. Mahse, result a lo chhuak a, kan roll no chu pass zingah alo tel a, kan lo pass ve ta reng mai a. Pass in rinna kha a tawp tawh a, i pass a ni tih i in hre ta a ni. Chutiangin kan result chu Pathian fapa Lal Isua Kristaah chuan a chhuak tawh a, tunah chuan chhandamin kan awm tawh tih kan in hre chiang a ni. Kan in ring a ni lo, chhandam nih in ring chu a la piangthar lo a ni, a boral dawn. Eng vangin nge chhandam kan ni tih kan in hriat chian theih? Kakvary tlangah thihna chu Lal Isua’n a hneh tak a vang in leh nunna chu Lal Isua thawhlehna thiltihtheihna a vang chuan, ani chuan thim thuneihna lak ata min tlan chhauk in, a fapa hmangaih taka ram ah chuan min kai tir ta a ni. Chhandamna hi kan inhriatna a ni lova, mihring ngaih dan a ni hek lo, Pathian chatuan remruattua rilru a nih vangin Pathian rilru chu Bible-ah ziak chhuahin a awm a, chu Pathian thinlung chu kan lo tawmpui chuan, chhandamin kan lo awm ta a ni. “Hun lawmawmah ka ngaithla che a, Chhandamna ni-ah ka tanpui che” a ti si a. Ngai teh u, tun hi hun lawmawm chu a ni a, ngai teh u, tun hi chhandamna ni chu a ni (II Kor,6:2). Mihringte chuan, nichina kan sawi tawh ang khan, hun hi hmun thumah kan then ve a, hun kal tawk, tun leh hun lo la kal tur. Mahse. Pathian rilruah chuan mihringte hian ‘tun’ lo chu hun kan lo nei miah lo. Tun lo hi hun kan lo nei reng reng lo mai a, nakin zan pawh lo thleng se ‘tun’ a lo ni ang a, a tukah pawh ‘tun’ chiah kha hun i nei dawn chauh a. Kum hnih hnuah pawh ‘tun’ ti lo chuan i hun hmang kha i sawi thei dawn tlat lo. Tun lo reng reng hi mihringin chatuan pawh kan lo nei chuang lo. Tunah zawng Krista Isua a awmte tan chuan thiamloh chantirna reng a awm tawh lo tih kan sawi hian, chatuan kan sawi a ni.Nakin tih hi Setana chan, bumna a ni. Pathian erawh chuan tun chiah a nei a, chu chu chhandamna a ni. Tun hi ani. Pathian rilru ah chuan tun leh chatuan hi a in chen chiah. Hemi avang hian Johana chuan “Chatuan nunna in nei tawh tih in hriat theih nan...” tiin lehkhathawnah a ziak a, Lal Isua pawhin “ Mi tirtu ring chuan chhatuan nunna a nei tawh a ti bawk a.A va ropui em ! “Ani chuan kan thil tih ang te ni lo in, a ma ruat leh khawngaihna ang zawkin min chhandam a,kohna thianghlimin min ko bawk a, chu khawngaihna chu leilung pian hmain Krista Isua ah chuan min pek a ni tawh”, tiin tirhkoh Paula chuan Timothea hnena lehkha a thawnnaah a sawi a. Leilung pian hma daih,chatuan, tunah hian Pathian chuan a fapa Isua Krista ah chhandamna min pe diam tawh a ni. A awmzia chu, kan pian hma daih, kan pute pawh an la pian hma daihin, Krista Isuaah chuan tihlanin a awm ta. Hemi hriat chian loh vang hian mitamtak vawiinah an piangthar a, a tukah an sual leh mai thin. Miin chatuan nunna a neih ngat chuan engtin nge a bo leh theih ang le! Mahni hriatna leh rin dan erawh hi chu a tlo lo reng a ni. Pathian thianghlimna chang zo reng reng lo kan ni a. A thianghlimnain min paihthlak laiin, a hmangaihna chuan Kalvary min thlen a, Kalvaryah chuan Pathian thianghlimna leh hmangaihna chuan min lo fawp ta a, chu chuan min va kaitho zo teh lul em! Chu Kraws thu hre lo chu a hlimthlaah a in hmangral thin. A hretu nunah chuan bawih nihna zawng zawng chu thutak chuan a seng sak a. Rinna avanga khawngaihna a chhandam kan nihna pawh hi, Pathian thil thlawn pek a ni a, chu pawh chu kan awmna tur a Pathianin a lo buatsaih lawk diam ala ni cheu mai. Matric i pass a, lawmpui nan che mi in kawr mawi deuh mai an pe che a, kha present kha ilo lei tur a ni lo, i thawh chhuah tur a ni hek lo, a petu lamah engkim tlak fel diamin a awm tawh a, chuvangin a thlawnin i dawng mai a, hak tura buatsaih lawk vek a ni tawh. Chhandamna, Pathian thilthlawnpek hi, thiltih vang a ni lova, kan tih a tel ve reng reng lo. Chutianga chatuan nunna min rawn present tawp mai chu e, mi in a hriat chian chuan a petu rilru tihnat hi a hlau ber tawh a, a phal tawh hlawl lo. Nitinin a bawihah kan insiam tawh zawk a ni. Chutiang tak a hmangaihna nasa lak ata chu engmahin min then thei tawh lova, saruakna emaw, tihduhdahna emaw, khawvel thil engmah hian min then thei tawh lo ang. Kan bawhchhiatnate chu chhak leh thlang a in hlat ang hian kan hnen ata dah san daih a nih thu kan hmu a (Sam103:12). Chutiang taka kan sualna hre tawh lova min theihnghilh sak a, chatuan nunna min petu chu engmah hian min then phal chi reng a ni lo a ni. Keini chuan kan sualna te, mite sualna te hi kan hre reng thin a, kan tualthah, uirena te kha ka n rilruah a lo lut leh thin, mahse, ani zawngin a theihnghilh vek a, kan hnen ata chu Kalvariah a phum bo ta vek a ni. Pafa ‘hian’ pafa an nih an inringhlel ngai lo. Fa in a pa fa anih a in ringhlel ngailo va, i pu chu ralte a nih vangin ralte i ni tih i pawm thlap a, rinhlehna i nei miah lo. Mahse, Pathian fa kan nih hi kan inringhlel fo mai. “Ngai teh u, Pain min hmangaihna chu ava nasa em! ‘Pathian faahte’ min vuah tak hi”(I Joh,3:1). A va ropui em! Setan an rawn bei che in ‘Pathian fa i ni lo, chhandam i ni lo, i piangthar lo’,pawh rawn ti se,’Diabol, ka hnungah kal; rawh, Pathian fa, chandam, piangthar ka ni chiang. Bible thianghlimah ka entir ang che’, tiin I Joh.3:1 hi kawh hmuh mai rawh. Pathian kan lama a tang tlat a vangin tumahin min hek thei dawn lova,(Rom.8:31) thiam chantirtu lah kha Pathian a ni miau mai si a. Tu in nge thiamloh chantir ang? Thia kha Krista Isua chu ani si a,a ni, tholehta zawk a, Pathian dinglama awma min sawisaktu bawka kha a ni. Roreltu kha i pa a ni a. Awle, nang, i fa pasarih zinga pakhat kha hremhmunah i tlawh liam phal em le? Hei hi zawng a pian a fuh lem lo, a sual em mai tiin i fa kha a ke i elhtliahsak phalin, hremhmunah i nawr liam phal em ni? An chhiat poh leh hmanmgaihna a nasa a sin. Pathian fa kan nih tlat chuan e, a chatuan ramah kan awm dawn zawk a sin. Rinna thu te hi mi thenkhat chuan sawi harsat an tum em em khawp a. Mahse, a harsa reng reng lo. I kut zungchal kha i kut zungchal a ni tih han ring vak dawn teh, a buaithlak mai mai. Lal Isua krista kha kan rin thu in kan ring a ni lo, Rom.10:10 ah te khan a sawi fiah em em a, Hebrai ah rinna thu hi chiang takin a sawi bawk. Hebrai-ah fiah taka a sawi lai khan, a harsatna ni a lang kha a awlsamna a ni a, Rom.10:12-ah kha chuan ’thu chuan a hnaih che’, a ti mai a ni. I hmui, i kaah pawh khan a awm a,sawi mai theih a ni a,”i kain Isua chu Pathian fapa a ni tih i tan a, i thinlunga i rin chuan chhandamin i awm ang”,a ti a ni. Rinna thu hi tehkhin thu nen harsa tak a sawia fiah chi a ni lo. Lam hi chhandamna a ni mai lova, mahse, Lal Isua, Pathian fapa ring lotu chu amah fakin a lam thei tak tak lo. Pathian fapa ringtu chuan amahah hriatna a nei a, i thinlungah Pathian fa i ni tih i in hriat chuan i lawm lo thei lo ang. Thutthlengah i thu tawh a, i thawh leh hma chuan i thu mek a ni. I thut dawn tep kha i ring thei lova, i thut tum kha i ring thei lo, i thu tawh a, i thu mek a ni. Pathiukanin min chhandam tawh a, min chhandam mek a ni.’Ka thu hria a mi tirtu ring chuan’ chatuan nunna a nei tawh’, a ti mai a. Nei tawh hikan kan nei mek a ni tih hi kan hre reng tur a ni. “Thutak hriatna famkim chu kan chan hnu a thil kan tih sual luih si chuan sualte tana in thawina a awm tawh hauh lo vang a, rorelna hlauhawm tak lo thleng tur leh dotute kangral tur thinurna mei kan hmabak a ni mai”(Heb.10:26). A hma a kan sawi tak te kha van thilpek kan temte a ni a,. Thutak hriatna famkim chu kan chan tawh hnuah, van thil pekte kan chan tawh hnuah, Pathian thlarau thianghlim peka kan awm tawh hnuah, Pathian chhandamna ropuia chhandam kan nih tawh hnuah, keimahni duhthlanna ngeia kan tihsual luih si chuan sualte tan inthawina reng a awm tawh lo. Pathian fapa rapbet a, a thisen thianghlim engmah lova ruat kan ni tawh dawn a ni. ’Chhandam kan ni tawh a lawm’, tiin sual tih hreh loh nan i hmang lo ang u,a rapthlak dawn em a sin. Khawvel aw hi a ring a, Pathian aw chu a zawi a. Chhungril lama zawite a thu sawitu chu kan Lal a ni a, a mah avangin hreawm kan tuar thin a, a mah avangin hmuhsit leh endawng kan tuar thin. Chumi tuar ngam lo leh, phattu nun erawh chu a ngaihtuahawm tawh a. Kan thinlung a sual siper pawh huatna min pe tu hi kan hmangaih tawh zawk a ni. Unau duh tak, Pathian chuan i tih tel miah lo in a thlawnin a chhandam che a, mahse e, a chandamna hin i thlarau hian a hre tawh em? A hriat tawk chuan Kriksta avangin sual i mausam ang a, Krista avangin hmuhsit leh endawn i hlawh dawn a ni. Chtuan nunna i neih tawh avangin sual a tlukluh leh mawlh i hlau thung ang a, Krista chu hmangaih loh phal rual a ni lo tih nitinin i lo hmu tawh zawk dawn a ni. Pathian chhandam nih in hriatna lawnawm tak hi kan zavaiin chang vek ila, a mah hmangaih letnaah Lalpa’n min hruai theuh rawh se.
 
  """;
-const bung2 = """  """;
+const bung2 = """ ’Isua Krista chu Lal a ni,’ tiin lei tinrengin a pun nan,
+Pathianin a ni chu nasa takin a chawimawi ve ta thung a,
+hming zawng zawng a hming chungnung ber chu a pe ta a.
+Phil. 2:5-11.
+ Philippi khuaa mite hnena a lehkhathawnah hian
+Tirhkoh PAula hian tawngkam a hmang sang ber an ti thin a.
+Awle Krista Lalna tih thupui hmang a ka sawi tum chu hei hi
+a ni: Chhandam nih inhriatna lawmawm nei kher lo, chhandam
+nih leh nih loh pawh ngaihtuah ngai miah lo chung pawhin
+keimahniah Lal Isua Krista chu Lal a nihna anga a rawn inpuan
+miau chuan, amah fak turin kan taksa hi ui lovin kan pe phal
+vek thin.hhandam nih la inhre reng reng lo mah ila cchandam
+kan ni var var a ni.Engati nge ? Ele, Krista chu Lala a rawn
+inpuannate kan nih tlat vangin.
+ Amaherawchu, kan thinlungah Krista chu Lal a nina anga
+a rawn inpuan hian, kan thinlung hi ‘khawgaihna’ chauhvin a
+ti nghet thei si a. Mi tam tak, anmahnia Krista chu Lal anga a
+rawn inpuan tawhnate pawh, an thinlung chu khawngaihnaa
+tih ngheh a nih si loh chuan, chung mite chu harsatna leh
+Setana beihna lakah an ding zo lo fo thin. Tun huna Lalpa
+Thlarau Thianghlimin a duh chu: Thinlunga Lala a inpuan
+tawhnateah chhandam nih inhriatna lawmawm nei tawhteah Lal a nihna anga inpuan a duh a ni.
+ Chhandam i ni tih i inhre tawh em? I inhre tawh a nih
+chuan lawmawm e.Anih leh, Isua Krista chu i thinlungah Lal
+a nihna angin a inpuang tawh em? Vawi khat tal i thinlungah
+Lalah a tang tawh em? Thinlung, khawngaihnaa tih ngheh
+chu a tha e;mahse, Krista chu Lal-a a thut si loh chuan a hlutna
+a awm chuang dawn em ni?
+ I thinlungah Krista chu Lal-a a inpuan hma chu i
+taksa,rilru leh i thlarau zawng zawnin Lalpa i fak thei miah
+lovang. Chuamai ani lo,Krista ni lo, nangmah zawk khan i
+thinlung lalthutthleng a chan chhung chuan Indona Thianghlim
+i kal tlang thei lo vang a, thlarauva Krista khengbettute i haw
+thei ngai lo vang a, Adama thisenah i hul thei tak tak lo vang.
+Chuvangin Indona Thianghlim te, Babulon dona thinlung te,
+Krista khengbettute nena inthenna te, Adama thisen nen hiala
+kan inthenna te hi keimahniah, kan thinlungah Krista chu Lala a inpuan miau vang chauh a ni.
+ He khawvel hun tlai lamah thuawihna leh thlarau tuihalna
+vanga Lalpa rawn beltuteah Krista chu Lal a nih angin a
+inpuang nghal thin. Chung mi, kan unauteah chuan chhandam
+nih nihriat chianna lawmawm hi LAlpa’n dah a duh a, chumi
+hmang chuan an thinlung tih ngheh a duh a ni. A chhan pawh,
+chhandam nih inhriatna nei lova Krista zuitu leh beltu an nih
+vang a ni.
+ Lehlam ve thung chuan, tam tak chu Pathian chhandamna
+nihnaah leh, a khangaihna thu takah kan chiang a,
+khawngngaihna thu-ah ngat phei chuan kan lungrual tlang
+thei khawp mai. Tumah hi Pathian htu sawi pui theih loh a
+hleih pawh kan nei lova, kan zau em em a, ‘Jehova ipte pui’
+kan ak a, leng lo reng a awm lo. Kan thinlungah mahni kan
+lala a, kan zalen thin.Pathian khawngaihma in min ken tak
+tak lai phei chuan lainatna, thlarau boral tur lainatna a rawn
+kal a.Adama thisen a kan chhung leh khatte hlei hlei hi, Krista
+thlarau nei lo tu mai ni lovin, khengbettu an nih phei chuan
+thinlung hian a lainat em me a,tawngtai sakna te a lo kal a,an
+mahni hmangaihna hian min chhungkhat thin.Hei hi Kalvari
+a Krista tawrhna thlarau kan thinlunga a rawn inlar vang a ni
+a, a ropuiin a hlu a ni.
+Nimahsela, Krista chu kan thinlunga Lal a nihna anga
+a rawn inpuan chuan a Lal em em mai a, mahni ngei pawhin
+keimahnia thu kan neih ve a awih hauh lo. Lalpa dotute hi
+kan hmelma ah kan ruat vek a; Lalpa kawnga kal ve uk tawh,
+kal bo (tla) leh tate hi, Lalpa kawnga kal duh leh kal tum
+rilrute tana mi hnawksak ber an ni tih hriain diriamnain kan
+khat a,Krista thisena kan chhulkhatkualpui pawh, hun ruk mi
+a nih chuan kan haw tho. Chung zawng zawng, Lalpa dotute
+kan huata kan diriam chhan chu, keimahniah Krista chu Lala a inpuan vang a ni.
+ Unau duhtak, nagmahah khan Lal Isua Krista hi
+Lalin a inpuang tawh em? Lalpa dotu leh khengbet nawntute
+huat takte in i haw ve tawh em? Chhandam nih inhriat hi a
+lawmawm, mahse, englai pawha ‘thlarau lainatna’ i ti reng a
+nih chuan, Krista hi nagmahah a la Lal lo tih hria ang che.Tih
+tak takah chuan Lalpa dotute hi tisain, mihringin kan haw
+hlei nem, mihring rilru khaknain kan haw hrim hrim a ni lo.
+Mahse, Lal Isuan, “Ka lama tang lo chuan mi do a ni” (Luka
+11:23) a ti a. Lalpa lamah kan tang a, Lalpa dotute chu, amah
+Lalpa, kan thinlunga awm leh min kengtu hian min huattir
+mai chauh a ni.
+Krista hi i thinlungah Lal-a a la inpuang lo a nih chuan
+Lalpa au ang che.Chhandam nih inhriatna lawmawmzia i la
+hre lova, i la ngaihtuah ngai lo a nih chuan, a Lalna ninpuan
+tawhna hmun atang khan a chhandamna famkim hi i chanvo
+a ni tih hre bawk ang che.
+ Engatinge dan kohhran huang chhung a awm,
+chhandam nih inhriate an tluk zel? Khawngaihna thutak hrila
+chhandam nih inhriate hi a ni lo’m ni tluksan kohhrana lo
+chang ta? Tluksan kohhran chhuahsana thuthlung bangbo deuh
+deuh zuitute leh buaipiutute nun hi engatinge a thianghlim
+theih loh? A chhan chu, an thinlunga Krista hi Lal-a a inpuan
+loh vang a ni a, chhandamtuah an duh a, an thinlung lal ber
+atan an pawm duh tlat lo alawm.Kan thinlunga chhandamnih inhriatna lawmawm a rawn inlar a, a lalnain a rawn
+delhkilh hi chuan e, tlukna a awm tawh lo; chu ngei chu Hun
+Sarih Kohhran, Kohhran Thianghlim chu a ni.
+Hun ruk mi chuan ruah a sur hlek emaw, a hritlan
+deuh tip tep hian chhuanlam engemaw a siam mai a. a lalna
+inpuan tawhna te chu chu tiang an ni ve lo, Lalpa’n kal tura a
+tihnaah chuan, ruahtge chu fei kibar paw’n sur se, thinlunga
+Krista lalna hi a dang thei miah lo.
+Awle, ngun takin inenchiang teh, i thinlungah Krista
+hi Lal-a a thut chuan he khawvel hi i thlahlel lo vang.
+Nangmahah Krista a lal loh erawh chuan khawvel lungkhamna
+hlirin i khat thung ang. In leh lo, sum leh pai i awt ang a, i
+thlarau nun a tirethei em em ang a, awhna hlirin i rilru a khat
+ang. Lal a nihna anga a raw in puian thung erawh chuan e,
+heng Concrete building chawp hian a nam thlu fai vek ang a;
+khawvel thil awmte hi an nihna bakin a hlut ngai lo vang.
+A tawp ber atan chuan hei hi hre chiang ang che : I
+thinlungah Lalpa’n lungphek plahnih ziak angin, hmel hnih
+nei angin heng pahnih te hi a dah a, Pathian chhandamna ropui,
+Thlarau bo lainatna leh, Ama Lalna hi. A mah Lal Isua ngei
+pawh khan khawvela a len lai ni khan Chhandamtu a nihna
+ang in natna tinreng a ti dam a, na tuarte a khawngaih em em
+a, mitdelte chu an mitah chirh(hlum) a bel a, a ti dam a, Lazara
+thlan kiangah te khan a tap a, lainatnain a khat a ni. Mahse, a
+Lalnaa a khak ve thung chuan,”Ka in chu tawngtaina in an ti
+ang.....nangni erawh chuan suamhmangte pukah in sian zawk
+hi”,(Luka 19:45,46) a ti a, a vai darh iai iai mai a nih kha.
+I thinlunga lunghlu hmel hnih nei chu hre chiang la. A
+khawngaihna thutaka a ken lai che leh, a lalnaa a ken hun che
+kha hre fiah thiam tur leh, Amah Lalpa chu hmakhalh lo turin
+tawngtaina nen Lalpa au thin a ng che. A khawngaihna thutak,
+thlarau lainatnaa a ken lai che in, a pakhat zawk a lalna kha a
+hnawl fithla der ta emaw ti mai suh. Chutiang bawkin a lalnaa
+a ken lai che khan, a khawngaihnaa a a ken duh chang che a
+awm bawk ang. Chu van lam signal chu hmu thiam tujrin
+Lalpa hawina lam apiang hawi thei turin, i thinlung leh i thlarau
+zawng zawngin a mah chu au thin ang che.
+Khawngaina sinin he leiah hian Krista chu a lo kal
+tawh a, a lalna famkim nen rorel turin a lo kal leh dawn
+(Thupuan 19:16)
+A lalna thuruk, miten an hriat loh,
+Chatuan Pa angchhunga mi chu;
+Mifingte leh a lalna Arsi nen
+Van mipui ten an rawn puang ta.
+I lungngai aw maha lei a nghin chuan,
+I ropuina nen i lo kal hun chuan,
+Lei leh van rengin an dawl zo lo vang. """;
 const bung3 = """“Ran, a thisen Puithiam Lalberin Hmun Thianghlima
 sual tana hlana a luhpui thihna ruangte chu daipawnah an
 hal thin si a. Chutichuan Isua pawhin, ama thisen ngeia mite

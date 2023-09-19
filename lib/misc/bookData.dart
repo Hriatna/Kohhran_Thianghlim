@@ -2,10 +2,15 @@ import 'package:kohhran_thianghlim/misc/book1.dart';
 
 import '../Models/Data.dart';
 import 'book2.dart';
+import 'book3.dart';
+import 'book4.dart';
+import 'book5.dart';
 
 final bookData = [
  book1,
   book2,
+ book3,
+  book4,book5,
   // {
   //   'title': 'KHAWVEL LAWM NAN A LO KAL',
   //   'chapters': [

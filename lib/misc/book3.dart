@@ -13,7 +13,7 @@ final book3 = {
 
 
   ],
-  'bookImagePath': 'assets/books/3.png',
+  'bookImagePath': 'assets/books/2.png',
   'bookId':'3'
   // Add the image path here
 };

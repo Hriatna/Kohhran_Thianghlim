@@ -12,7 +12,7 @@ import 'misc/bookData.dart';
 
 void main() async {
   await Hive.initFlutter();
-  await Hive.deleteFromDisk();
+  // await Hive.deleteFromDisk();
   await GetStorage.init();
 
   Hive.registerAdapter(BookAdapter());
