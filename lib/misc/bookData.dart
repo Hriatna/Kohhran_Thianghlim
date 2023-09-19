@@ -5,12 +5,15 @@ import 'book2.dart';
 import 'book3.dart';
 import 'book4.dart';
 import 'book5.dart';
+import 'book6.dart';
+import 'book7.dart';
+import 'book8.dart';
 
 final bookData = [
  book1,
   book2,
  book3,
-  book4,book5,
+  book4,book5,book6,book7,book8
   // {
   //   'title': 'KHAWVEL LAWM NAN A LO KAL',
   //   'chapters': [

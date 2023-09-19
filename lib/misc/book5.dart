@@ -3,18 +3,18 @@ import '../Models/Data.dart';
 final book5 = {
   'title': 'KRAWS DAIHLIM',
   'chapters': [
-    Chapter('Bung 1: BUNG	1', bung1),
-    Chapter('Bung 2: BUNG	2', bung2),
-    Chapter('Bung 3: BUNG	3', bung3),
-    Chapter('Bung 4: BUNG	4', bung4),
-    Chapter('Bung 5: BUNG	5', bung5),
-    Chapter('Bung 6: BUNG	6', bung6),
-    Chapter('Bung 7: BUNG	7', bung7),
-    Chapter('Bung 8: BUNG	8', bung8),
-    Chapter('Bung 9: BUNG	9', bung9),
-    Chapter('Bung 10: BUNG	10', bung10),
-    Chapter('Bung 11: BUNG	11', bung11),
-    Chapter('Bung 12: BUNG	12', bung12),
+    Chapter('Bung 1', bung1),
+    Chapter('Bung 2', bung2),
+    Chapter('Bung 3', bung3),
+    Chapter('Bung 4', bung4),
+    Chapter('Bung 5', bung5),
+    Chapter('Bung	6', bung6),
+    Chapter('Bung 7', bung7),
+    Chapter('Bung 8', bung8),
+    Chapter('Bung 9', bung9),
+    Chapter('Bung 10', bung10),
+    Chapter('Bung 11', bung11),
+    Chapter('Bung 12', bung12),
 
 
 
@@ -208,6 +208,19 @@ Kei chu Kalvari Kraws chauh ka thuam a ni, Chu chu ka hlim leh ka lawmna ber; Aw
 
 """;
 
+
+const bung8= """ 
+
+BUNG 8 
+
+Kum 1982-1983 chhung hian Mizoram veina namen lo hian min delh thin a. Chutiang taka ka vei avang chuan Thlarau Thianghlim hian kan ram chhung kohhran hrang hrangte dinhmun min entir chamchi a. Angial anganin Presbyterian kohhran chhungah pawh sawi a tul si thin. Biak in tin mai hi nawhchizawrhna in angin min hmuhtir a, sakhaw hnarkaitute thukhawm (committee) te hi, mihur rual ang tein min hmuhtir bawk a. Chu’ng ka hmuhte chu thian tha hnena a ruka sawi mai lovin, khawlaiah, mipui hmaa puan a tul ta thin si a, hengahte hian tisaa ka unaute zilhhauh bak chu hlawh ka nei ngai lo. 
+|um khat chu, Presbyterian khawmpui Tanhril-ah nghah a ni a. Tanhril lam atanga sâwmna ka hmuh ve bawk avangin thian tha engemaw zat nen kan kal ve ta a. Presbyterian member ka la nih ve avangin hun pawh min pe ve ngei turah ngaiin ka kal ve a ni. 
+Mahse, chutiang awzawng chu a lo ni ta lo mai a, hun neih ve chu sawi loh, a do hian min do ngawih ngawih mai a lo ni si a. Biak in chhunga ka thut ngawih reng laite hian, ka chhungah hian mi ur hem hemtu hi a awm a, min sâwm emaw, sâwm lo emaw, va din ve rawih a, Presbyterian kohhran chhunga Thlarau Thianghlimin hmun a neih lohzia han auchhuah pui rawih rawih a tul a, mahse ka ngam si lo. Thlan fimin min bawh bawrh bawrh a, ka mualpho têp thin a ni. 
+Zânah mual inkhawm rawt a ni a, zalên taka hun hawn a ni bawk a, ka ding ve rawih mai a. Mahse, ka thusawi an khap leh ta hmiah mai a. Tichuan, hla thlan ka dil a, an remti a, hla ka han thlang chu ka lo thlang rei deuh a ni ang, hla min lak khum ta a. Keiin an zai chhûng zawngin thu ka sawi a, thusawi chhûng an lo zai thung a, mahse, an zai tui vak bik ta lo niin ka hria a. Ka thut hnu chuan min rawn chibaitu an tam hle a, Lalpa’n min tirhna ka hlen tak avangin, an ngaithla emaw, ngaithla lo emaw, ka lung a awi a, ka din chhunzawm leh an hlauh avangin bân an rawt zui ta nghal mai a. 
+Hemi tum hian kraws thu ka sawi a, “Zoram mipuite u, Lal Isua’n kraws-ah a nghâk che u. In puan ni lovin, in thinlung thler rawh u,” tiin ka au vak vak a. Kan ram kohhran hruaituten thlarau dik leh dik lo an hre hrang lo va, camping-na hmunah te  a hringhranin ramhuaiho an inlar a. Camping chhuakte’n âtna avangin tual an that a, mahse, thutakin hmun a nei thei si lo. An harh chhuak zo mawlh lo nia ka hriat avangin anni chu ka haw thei lo va, chuti taka Zo fate min suamtu thlarau sualho huatna chûan ka khat thung a. Mahni ka inen erawh chuan ka têtzia ka hria a, ka nuih lam lam a za a, mahse min tirtu chuan muhil thei lovin min tur thung si a ni. 
+
+
+""";
 
 const bung9 = """
 

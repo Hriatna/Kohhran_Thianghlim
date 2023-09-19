@@ -18,8 +18,11 @@ void main() async {
   Hive.registerAdapter(BookAdapter());
   Hive.registerAdapter(ChapterAdapter());
   await Hive.openBox<Book>('books');
+  // insertSampleData();
+  await Hive.deleteFromDisk();
+  await Hive.openBox<Book>('books');
+
   insertSampleData();
-  // await Hive.deleteFromDisk();
 
   runApp(MyApp());
 }

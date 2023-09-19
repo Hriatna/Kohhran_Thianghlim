@@ -105,7 +105,8 @@ class _ContentPageState extends State<ContentPage> {
                 Text(chapter.content,style:  TextStyle(
                   fontSize: 4.0 + _fontSizeController.fontSize.value,
 
-                ),softWrap: true,),
+
+                ),textAlign:TextAlign.justify,softWrap: true,),
                 if (currentChapterIndex < widget.book.chapters.length - 1)
                   ElevatedButton(
                     onPressed:(){

@@ -4,9 +4,11 @@ import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 
 import '../Models/Data.dart';
+import '../Stores/ThemeStates.dart';
 import 'ContentPage.dart';
 
 class AboutPage extends StatelessWidget {
+  final ThemeController _fontSizeController = Get.find();
 
   // ChapterPage({required this.book});
 
@@ -35,8 +37,8 @@ Kohhran Thianghlim is not confined to one locality but has spread its spiritual 
 Church Administration:
 The spiritual epicenter of Kohhran Thianghlim resides in Aizawl, serving as the general headquarters of the church. It is here that the esteemed Executive Committee convenes to guide the faithful on spiritual and administrative matters, ensuring that the church remains a beacon of light for its members.
 
-Aizawl is often lovingly referred to as the spiritual Jerusalem for the elects, signifying the profound spiritual significance that this city holds for the dedicated members of Kohhran Thianghlim. """, style: TextStyle(fontSize: 16),
-            ),
+Aizawl is often lovingly referred to as the spiritual Jerusalem for the elects, signifying the profound spiritual significance that this city holds for the dedicated members of Kohhran Thianghlim. """, style: TextStyle(fontSize: _fontSizeController.fontSize.value),
+            )
           ),
         ),
       ),
