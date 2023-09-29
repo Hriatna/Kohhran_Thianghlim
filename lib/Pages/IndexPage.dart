@@ -161,6 +161,10 @@ class HomePage extends StatelessWidget {
                              "THLANTE LEHKHABU",
                              style: TextStyle(fontSize: 20, fontWeight: FontWeight.w600),
                            ),
+                           const Text(
+                             "Author : Dr. L.B Sailo",
+                             style: TextStyle(fontSize: 18, fontWeight: FontWeight.w400),
+                           ),
                            // Text(
                            //   "THURÛK",
                            //   style: TextStyle(fontSize: 20, fontWeight: FontWeight.w800),
@@ -187,7 +191,7 @@ class HomePage extends StatelessWidget {
                         children: [
                            Expanded(
                              child: Text(
-                              'Nigth mode',
+                              'Night mode',
                               style: TextStyle(fontSize: _fontSizeController.fontSize.value),
                           ),
                            ),
@@ -252,16 +256,16 @@ class HomePage extends StatelessWidget {
                ListTile(title:
               Column(
                 crossAxisAlignment: CrossAxisAlignment.center,
-                children: [
+                children: const [
                   Divider(),
-                  Row( mainAxisAlignment: MainAxisAlignment.center,
-                    children: [
-                      Text("Developed by "),
-                      Text(" Digital Mizoram",style: TextStyle(fontWeight: FontWeight.w700),),
-
-                    ],
-                  ),
-                  Text("Owned by"),
+                  // Row( mainAxisAlignment: MainAxisAlignment.center,
+                  //   children: [
+                  //     Text("Developed by "),
+                  //     Text(" Digital Mizoram",style: TextStyle(fontWeight: FontWeight.w700),),
+                  //
+                  //   ],
+                  // ),
+                  Text("Initiated by"),
                   Text("IT CELL, Kohhran Thianghlim",style: TextStyle(fontWeight: FontWeight.w700),),
                   SizedBox(height: 10,)
 

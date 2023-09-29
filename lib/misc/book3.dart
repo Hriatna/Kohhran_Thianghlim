@@ -8,7 +8,7 @@ final book3 = {
     Chapter('Bung 3: SAKAWLH CHHINCHHIAHNA ', bung3),
     Chapter('Bung 4: PATHIAN BERAM NO CHHINCHHIAHNA ', bung4),
     Chapter('Bung 5: INDONA THIANGHLIM ', bung5),
-    Chapter('Bung 6: A LO KAl LEHNA ', bung6),
+    Chapter('Bung 6: A LO KAL LEHNA ', bung6),
 
 
 

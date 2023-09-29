@@ -85,6 +85,8 @@ flutter:
     - assets/books/5.png
     - assets/books/6.png
     - assets/books/7.png
+    - assets/books/krawsdaihlim.jpg
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

@@ -19,7 +19,7 @@ final book5 = {
 
 
   ],
-  'bookImagePath': 'assets/books/4.png',
+  'bookImagePath': 'assets/books/krawsdaihlim.jpg',
   'bookId':'5'
   // Add the image path here
 };
